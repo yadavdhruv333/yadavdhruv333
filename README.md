@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dhruvyadav
-- 👀 I’m interested in androidDvelopment
+- 👀 I’m interested in DevSecOps culture.
 - 🌱 I’m currently learning advanceJava
 - 💞️ I’m looking to collaborate on androidstudio
 - 📫 How to reach me yadavdhruv333@gmail.com
